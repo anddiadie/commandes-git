@@ -13,3 +13,14 @@ Liste de commandes git
 
 ## git push 
 - permet de pousser les modification en ligne 
+
+## git log --oneline 
+- permet de lister les modification en local
+
+## git status
+- permet de veifier le status d'un repertoire
+## git diff +id
+- permet de voir les differences entre les versions
+
+## git reset --hard + id
+- permet de faire un roolback d'une version à l'autre
