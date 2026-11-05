@@ -20,7 +20,7 @@ Listes de commandes git
 ## git status
 - permet de verifier le status d'un repertoire
 ## git diff +id
-- permet de voir les differences entre les versions
+- permet de comparer deux commits
 
 ## git reset --hard + id
 - permet de faire un rollback d'une version à l'autre
