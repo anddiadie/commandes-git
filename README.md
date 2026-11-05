@@ -33,4 +33,4 @@ Listes de commandes git
 - permet avec l'option -b de simultanement creer et basculer sur une branche
 
 ## git pull
-- permet de recupérer les modifications en local.
+- permet de recupérer les modifications effectuées en ligne au niveau local.
