@@ -31,3 +31,6 @@ Listes de commandes git
 ## git checkout 
 - permet de se deplacer d'une banche à l'autre
 - permet avec l'option -b de simultanement creer et basculer sur une branche
+
+## git pull
+- permet de recupérer les modifications en local.
