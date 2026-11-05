@@ -1,6 +1,6 @@
 # commande git
 
-Liste de commandes git
+Listes de commandes git
 
 ## commande git init
 - Permet d'initialiser un repertoire
@@ -12,10 +12,10 @@ Liste de commandes git
 - permet d'enregistrer une modificationen local
 
 ## git push 
-- permet de pousser les modification en ligne 
+- permet de pousser les modifications en ligne 
 
 ## git log --oneline 
-- permet de lister les modification effectuées en local
+- permet de lister les modifications effectuées en local
 
 ## git status
 - permet de verifier le status d'un repertoire
@@ -23,11 +23,11 @@ Liste de commandes git
 - permet de voir les differences entre les versions
 
 ## git reset --hard + id
-- permet de faire un roolback d'une version à l'autre
+- permet de faire un rollback d'une version à l'autre
 
 ## git branch
 - permet de creer une branche 
 
 ## git checkout 
 - permet de se deplacer d'une banche à l'autre
-- permet avec l'option -b de simultanement creer et basculer sur la branche
+- permet avec l'option -b de simultanement creer et basculer sur une branche
