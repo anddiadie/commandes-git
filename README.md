@@ -34,3 +34,10 @@ Listes de commandes git
 
 ## git pull
 - permet de recupérer les modifications effectuées en ligne au niveau local.
+
+## git rebase
+- permet de recuperer les modifications de la branche mère sur la branche fille
+- les modifications de la branche mère sont placées en dessous des modifications de la branche courante (fils)
+
+## git merge
+- permet de recuperer les modifications des branches fils et de les ramener sur la branche mère
